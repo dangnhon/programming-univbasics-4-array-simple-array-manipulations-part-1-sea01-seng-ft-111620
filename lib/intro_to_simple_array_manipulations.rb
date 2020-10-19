@@ -9,5 +9,3 @@ end
 def using_unshift(Array, String)
   Array.pop(String)
 end
-
-
